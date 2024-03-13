@@ -4,4 +4,4 @@
 lorem
 
 ## licencja
-opis :)
+opis :))
